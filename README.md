@@ -41,5 +41,5 @@ Enter wikipedia page? https://en.wikipedia.org/wiki/Earth
 
 $ python3 assignment4.py
 Enter a request? 5U
-Lift #4 will be coming up to receive you.
+Lift 4 will be coming up to receive you.
 ```
