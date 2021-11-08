@@ -6,7 +6,7 @@
 ## Clone Directory
 
 ```bash
-git clone https://github.com/spythrone/atlantis-assignment.git
+$ git clone https://github.com/spythrone/atlantis-assignment.git
 ```
 
 
@@ -15,15 +15,15 @@ git clone https://github.com/spythrone/atlantis-assignment.git
 Use python command [venv](https://docs.python.org/3/library/venv.html) to create virtual environment.
 
 ```bash
-python3 -m venv env
-source env/bin/activate
+$ python3 -m venv env
+$ source env/bin/activate
 ```
 
 
 ## Install Requirements
 
 ```bash
-pip3 install -r requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 ## Usage
