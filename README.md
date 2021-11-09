@@ -39,7 +39,7 @@ Enter wikipedia page? https://en.wikipedia.org/wiki/Earth
 4-letter words: 12 / paragraph
 5-letter words: 11 / paragraph
 
-$ python3 assignment4.py
+$ python3 assignment5.py
 Enter a request? 5U
 Lift 4 will be coming up to receive you.
 ```
